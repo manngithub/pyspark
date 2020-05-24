@@ -512,11 +512,3 @@ test.select("Aspect").show(5,truncate=False)
 https://medium.com/@dhiraj.p.rai/essentials-of-feature-engineering-in-pyspark-part-i-76a57680a85
 
 
-
-# Open Questions
-- how to submit pyspark jobs
-- 
-
-
-
-
